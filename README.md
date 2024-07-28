@@ -8,7 +8,7 @@ Ensure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/) (version 1.45.3)
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
-- [csv-parser]
+- csv-parser
 
 ## Installation
 
