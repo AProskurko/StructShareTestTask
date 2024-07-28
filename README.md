@@ -35,11 +35,6 @@ Ensure you have the following installed on your machine:
    yarn add csv-parser
    ```
 
-4. Install Playwright:
-   ```sh
-   npm install playwright@1.45.3
-   ```
-
 ## Running Test
 
 To execute test:
